@@ -1,0 +1,26 @@
+.body {
+  background-color: blueviolet;
+  height: 100vh;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.harry {
+  align-items: center;
+  text-align: center;
+  background-image: url(../assets/harrypotter.jpg);
+  border-radius: 30px;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  color: beige;
+  height: 600px;
+  width: 400px;
+}
+.MovieTitle {
+  color: white;
+}

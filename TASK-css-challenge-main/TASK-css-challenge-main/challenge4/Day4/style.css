@@ -1,0 +1,19 @@
+.change-color {
+}
+
+.navbar {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+}
+
+.change-color {
+  color: white;
+}
+\
+.change-color:hover {
+  color: blue;
+}
+.big-text {
+  font-size: xx-large;
+}

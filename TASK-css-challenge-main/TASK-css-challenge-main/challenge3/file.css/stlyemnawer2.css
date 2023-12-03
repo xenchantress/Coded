@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-items: flex-end;
+    align-items: flex-end;
+    background-color: chartreuse;
+    height: 100vh;
+}
+.card{
+    background-color: aqua;
+    height:20px;
+    width: 25%;
+}
